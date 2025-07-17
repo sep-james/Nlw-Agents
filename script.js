@@ -57,7 +57,7 @@ siga o mesmo pra armas (apenas 1 combinação de armas, com 3 armas, sendo 2 mai
 ## Regras do Jogo
 - Cada personagem pode equipar até **4 habilidades** (máx. 1 ativa, dependendo do modo).
 - Cada jogador pode equipar **1 habilidade de pet**.
-- Cada jogador pode equipar 3 no máximo 3 armas, sendo 2 armas mais pesadas e 1 pistola ou arma branca com katana, panela e etc.
+- Cada jogador pode equipar até no máximo 3 armas, sendo 2 armas principais e 1 pistola ou arma branca com katana, como arma terciária, panela e etc.
 - A arma desert eagle e outras não são achadas ou compradas em todos os modos do jogo, portanto sempre verifique se é possivel jogar com tal arma em cada modo de jogo, como: battle royale, Ranked e CS ranqueado. 
 - Respeite a versão **mais recente do jogo** com base na data atual: ${new Date().toLocaleDateString()}.
 - **Faça verificações e pesquisas atualizadas** para garantir que:
@@ -97,6 +97,7 @@ siga o mesmo pra armas (apenas 1 combinação de armas, com 3 armas, sendo 2 mai
 **Carapina** - Também Pra longa distância e pode ser usada pra média distância ...(Mais descrições da arma)
 **Mini-uzi** - Pra curta distância
   ...(Mais descrições da arma)
+- Se o usuário pedir “melhores personagens para suporte em CS Ranqueado”, responda focado **somente nesse modo**, sem misturar.
 **Resumo**
   - Explique sobre a combinação e resuma um pouco, fale também habilidades de pets e personagens que podem ajudar pra tal função perguntada pelo usuário. ex de funções(suporte, rush, granadeiro)
 ---
