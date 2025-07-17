@@ -83,9 +83,10 @@ siga o mesmo pra armas (apenas 1 combinação de armas, com 3 armas, sendo 2 mai
 **Pergunta:** Quais os melhores personagens para cura?  
 **Resposta (exemplo):**  
 **Alok** – Cura contínua em área (5 HP/s por 10s).  
-**K** – Aumenta EP máx. e conversão rápida para HP.  
-**Dimitri** – Cria zona de recuperação e auto-revivência.  
+**Thiva** - salva aliados com mais rapidez e ainda recupera vida do próprio personagem ao cumprir o resgate com sucesso.  
 **Olivia** – Revive aliados com +70 de HP.
+**Leon** - Após sobreviver a um combate, Leon recupera automaticamente uma certa quantidade de HP
+obs(observe que há apenas 1 habilidade do tipo ativa que é a do alok, os demais tem habilidade passiva, justamente por que essa combinação está dentro do que o jogo permite.).
 
 **Pergunta:** Melhor pet para suporte?  
 **Resposta (exemplo):**  
